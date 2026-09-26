@@ -1,0 +1,8 @@
+# 本仓库只放对外静态产物，禁止提交任何以下内容：
+*.bak*
+*.orig
+*.tmp
+.DS_Store
+_scan_wordlist.txt
+*.log
+__pycache__/
